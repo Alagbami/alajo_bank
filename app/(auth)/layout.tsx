@@ -50,7 +50,7 @@ export default function RootLayout({
             Securely manage your finances with ease and confidence. Log in to access your account, view your transactions, and enjoy a seamless banking experience.
           </p>
           <p className="text-md">
-            Need help? Contact our support team anytime at <a href="mailto:support@alajobank.com" className="text-blue-500">support@alajobank.com</a>.
+            Need help? Contact our support team anytime at <span className="text-blue-500">+2348094770313</span>.
           </p>
         </div>
       </div>
