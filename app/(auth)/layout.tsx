@@ -46,7 +46,7 @@ export default function RootLayout({
         </div>
         <div className="auth-content p-6 text-center">
           <h1 className="text-3xl font-bold mb-4">Welcome to Alajo Bank</h1>
-          <p className="text-lg mb-6">
+          <p className="text-md mb-6">
             Securely manage your finances with ease and confidence. Log in to access your account, view your transactions, and enjoy a seamless banking experience.
           </p>
           <p className="text-md">
